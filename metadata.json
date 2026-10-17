@@ -1,0 +1,6 @@
+{
+  "name": "Nothing Launcher",
+  "description": "Nothing OS inspired minimal, monochromatic launcher with custom widgets, dot-matrix typography, and glyph aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
